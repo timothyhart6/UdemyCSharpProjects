@@ -24,10 +24,11 @@ namespace CSharpTutorial
             StopTime = null;
         }
 
-        public TimeSpan DisplayDuration()
+        public void DisplayDuration()
         {
-            return Duration;
+            Console.WriteLine(Duration);
         }
+
 
     }
 

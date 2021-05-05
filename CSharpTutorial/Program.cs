@@ -18,7 +18,7 @@ namespace CSharpTutorial
                 StopWatch.Start();
                 System.Threading.Thread.Sleep(1000);
                 StopWatch.Stop();
-                Console.WriteLine(StopWatch.DisplayDuration());
+                StopWatch.DisplayDuration();
             }
         }
     }
