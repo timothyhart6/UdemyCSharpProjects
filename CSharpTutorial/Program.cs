@@ -6,16 +6,19 @@ using System.Text;
 
 namespace CSharpTutorial
 {
+
     class Program
     {
         static void Main(string[] args)
         {
-           var file = File.ReadAllText(@"/Users/timothyhart/Desktop/hello_world.jpg");
-            Console.WriteLine(file);
-
-            foreach (var line in file)
+            for (int i = 0; i < 10; i ++)
             {
-                //Console.WriteLine(line);
+                var StopWatch = new StopWatch();
+
+                StopWatch.Start();
+                System.Threading.Thread.Sleep(1000);
+                StopWatch.Stop();
+                Console.WriteLine(StopWatch.DisplayDuration());
             }
         }
     }
