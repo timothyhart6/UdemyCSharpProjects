@@ -1,0 +1,12 @@
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.deps.json
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.runtimeconfig.json
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.runtimeconfig.dev.json
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.dll
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/bin/Debug/netcoreapp3.1/CSharpTutorial.pdb
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.csprojAssemblyReference.cache
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.AssemblyInfoInputs.cache
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.AssemblyInfo.cs
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.csproj.CoreCompileInputs.cache
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.dll
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.pdb
+/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/Debug/netcoreapp3.1/CSharpTutorial.genruntimeconfig.cache
