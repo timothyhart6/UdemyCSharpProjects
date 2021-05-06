@@ -1,15 +1,15 @@
 ﻿<Properties StartupConfiguration="{9D18CBD3-AF13-428D-B086-AFE71F56FF27}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpTutorial/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpTutorial/Post.cs">
     <Files>
-      <File FileName="CSharpTutorial/Program.cs" Line="19" Column="50" />
-      <File FileName="CSharpTutorial/StopWatch.cs" Line="33" Column="1" />
+      <File FileName="CSharpTutorial/Program.cs" Line="17" Column="1" />
+      <File FileName="CSharpTutorial/Post.cs" Line="29" Column="27" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpTutorial" expanded="True">
             <Node name="CSharpTutorial" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Post.cs" selected="True" />
             </Node>
           </Node>
         </State>
