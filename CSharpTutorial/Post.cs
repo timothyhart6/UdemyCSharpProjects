@@ -4,16 +4,16 @@ namespace CSharpTutorial
 {
     class Post
     {
-        private string Title { get; set; }
-        private string Description { get; set; }
-        private DateTime CreateTime { get; set; }
+        private readonly string _title;
+        private readonly string _description;
+        private readonly DateTime _createTime;
         private int VoteCount { get; set; }
 
         public Post(string title, string description)
         {
-            this.Title = title;
-            this.Description = description;
-            this.CreateTime = DateTime.Now;
+            this._title = title;
+            this._description = description;
+            this._createTime = DateTime.Now;
         }
 
         public void Upvote()
@@ -29,6 +29,9 @@ namespace CSharpTutorial
         public void DisplayVoteCount()
         {
             Console.WriteLine(VoteCount);
+            Console.WriteLine(_title);
+            Console.WriteLine(_description);
+            Console.WriteLine(_createTime);
         }
     }
 

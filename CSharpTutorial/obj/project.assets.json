@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/CSharpTutorial.csproj",
+      "projectUniqueName": "/Users/timothyhart/Desktop/Desktop - MacBook Air/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/CSharpTutorial.csproj",
       "projectName": "CSharpTutorial",
-      "projectPath": "/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/CSharpTutorial.csproj",
+      "projectPath": "/Users/timothyhart/Desktop/Desktop - MacBook Air/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/CSharpTutorial.csproj",
       "packagesPath": "/Users/timothyhart/.nuget/packages/",
-      "outputPath": "/Users/timothyhart/Desktop/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/",
+      "outputPath": "/Users/timothyhart/Desktop/Desktop - MacBook Air/coding_projects/DotNetTestProjects/CSharpTutorial/CSharpTutorial/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/timothyhart/.config/NuGet/NuGet.Config"
