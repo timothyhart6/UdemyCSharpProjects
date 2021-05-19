@@ -1,14 +1,16 @@
 ﻿<Properties StartupConfiguration="{9D18CBD3-AF13-428D-B086-AFE71F56FF27}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpTutorial/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpTutorial/SqlConnection.cs">
     <Files>
-      <File FileName="CSharpTutorial/Program.cs" Line="10" Column="5" />
+      <File FileName="CSharpTutorial/Program.cs" Line="12" Column="1" />
+      <File FileName="CSharpTutorial/DbConnection.cs" Line="20" Column="1" />
+      <File FileName="CSharpTutorial/SqlConnection.cs" Line="9" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpTutorial" expanded="True">
             <Node name="CSharpTutorial" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="SqlConnection.cs" selected="True" />
             </Node>
           </Node>
         </State>
