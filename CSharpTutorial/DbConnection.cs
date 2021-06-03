@@ -4,8 +4,8 @@ namespace CSharpTutorial
 {
     public abstract class DbConnection
     {
-        private string ConnectionString { get; set; }
-        private TimeSpan Timeout { get; set; }
+        public string ConnectionString { get; set; }
+        public TimeSpan Timeout { get; set; }
 
         public DbConnection(string connection)
         {

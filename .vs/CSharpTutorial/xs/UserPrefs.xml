@@ -1,16 +1,18 @@
 ﻿<Properties StartupConfiguration="{9D18CBD3-AF13-428D-B086-AFE71F56FF27}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpTutorial/SqlConnection.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpTutorial/DbCommand.cs">
     <Files>
-      <File FileName="CSharpTutorial/Program.cs" Line="12" Column="1" />
-      <File FileName="CSharpTutorial/DbConnection.cs" Line="20" Column="1" />
-      <File FileName="CSharpTutorial/SqlConnection.cs" Line="9" Column="1" />
+      <File FileName="CSharpTutorial/Program.cs" Line="10" Column="1" />
+      <File FileName="CSharpTutorial/DbConnection.cs" Line="22" Column="1" />
+      <File FileName="CSharpTutorial/SqlConnection.cs" />
+      <File FileName="CSharpTutorial/Post.cs" />
+      <File FileName="CSharpTutorial/DbCommand.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpTutorial" expanded="True">
             <Node name="CSharpTutorial" expanded="True">
-              <Node name="SqlConnection.cs" selected="True" />
+              <Node name="DbCommand.cs" selected="True" />
             </Node>
           </Node>
         </State>

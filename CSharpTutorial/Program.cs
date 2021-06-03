@@ -12,14 +12,12 @@ namespace CSharpTutorial
     {
         static void Main(string[] args)
         {
-            var sqlDbConnection = new SqlConnection("Test");
-            sqlDbConnection.Open();
-            sqlDbConnection.Close();
+            var sqlConnection = new SqlConnection("test SQL Connection");
+            var dbCommand = new DbCommand(sqlConnection);
 
-            var oracle = new OracleConnection("Test");
-
-            oracle.Open();
-            oracle.Close();
+            dbCommand.OpenConnection();
+            dbCommand.CloseConnection();
+            dbCommand.RunInstructions();
         }
 
     }
